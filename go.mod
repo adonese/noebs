@@ -10,7 +10,7 @@ require (
 	github.com/bradfitz/iter v0.0.0-20191230175014-e8f45d346db8
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/gin-contrib/multitemplate v0.0.0-20200916052041-666a7309d230
-	github.com/gin-gonic/gin v1.6.3
+	github.com/gin-gonic/gin v1.7.2
 	github.com/go-openapi/spec v0.20.3 // indirect
 	github.com/go-playground/validator/v10 v10.4.1
 	github.com/go-redis/redis/v7 v7.4.0
