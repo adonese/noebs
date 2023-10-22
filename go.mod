@@ -20,7 +20,7 @@ require (
 	github.com/zsais/go-gin-prometheus v0.1.0
 	golang.org/x/crypto v0.0.0-20221012134737-56aed061732a
 	gorm.io/driver/sqlite v1.4.2
-	gorm.io/gorm v1.24.0
+	gorm.io/gorm v1.25.2
 )
 
 require (
